@@ -38,7 +38,7 @@ Restaurant-Timer/
 ```
 ## Formato del JSON
 
-# Ejemplo
+### Ejemplo
 ```bash
 {
   "Clásica": {
@@ -57,7 +57,7 @@ Restaurant-Timer/
 ```
 ## Formato del TXT
 
-# Ejemplo
+### Ejemplo
 ```bash
 Producto:Pan|Categoría:Panes|Stock:50
 Producto:Carne|Categoría:Proteínas|Stock:30
