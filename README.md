@@ -31,3 +31,14 @@ El sistema trabaja con dos archivos principales:
 ```bash
 git clone https://github.com/Avila-Rich-Sanchez/Restaurant-Timer.git
 cd Restaurant-Timer
+
+## Instalación y ejecución
+
+1. Prepara la estructura de archivos:
+   - Asegúrate de tener la carpeta `Inventario` en el directorio raíz
+   - Coloca el archivo `recetas.json` dentro de `Inventario/`
+   - Prepara tu archivo de base de datos `.txt` con el formato especificado
+
+2. Ejecuta el programa:
+```bash
+python app.py
