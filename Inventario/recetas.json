@@ -1,0 +1,5 @@
+{
+    "Especial": {"Pan": 1, "Carne": 2, "Queso": 2},
+    "Sencilla": {"Pan": 1, "Carne": 1, "Queso": 1},
+    "Mega": {"Pan": 1, "Carne": 4, "Queso": 5, "Papas Fritas": 10, "Salsa Especial": 10}
+}

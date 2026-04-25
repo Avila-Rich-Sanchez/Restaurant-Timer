@@ -1,0 +1,11 @@
+INVENTARIO HAMBURGUESERÍA - ÚLTIMA ACTUALIZACIÓN
+-----------------------------------------------
+PRODUCTO: Pan | CATEGORIA: Panaderia | STOCK: 50
+PRODUCTO: Carne | CATEGORIA: Carnes | STOCK: 4
+PRODUCTO: Queso | CATEGORIA: Lacteos | STOCK: 200
+PRODUCTO: Tocino Ahumado | CATEGORIA: Carnes | STOCK: 80
+PRODUCTO: Salsa Especial | CATEGORIA: Salsas | STOCK: 30
+PRODUCTO: Papas Fritas | CATEGORIA: Congelados | STOCK: 15
+PRODUCTO: Refresco Cola | CATEGORIA: Bebidas | STOCK: 100
+PRODUCTO: Cebolla Blanca | CATEGORIA: Vegetales | STOCK: 25
+
